@@ -1,9 +1,9 @@
-import SignupForm from "./fifth0319"
+import SignupForm from "./sixth0320"
 
 function App() {
   return (
     <div className="App">
-      <SignupForm />
+      <SignupForm tst="myLastName" />
     </div>
   );
 }
