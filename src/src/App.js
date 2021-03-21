@@ -1,4 +1,4 @@
-import FriendList from "./seventh0321"
+import FriendList from "./seventh0321_customize"
 
 function App() {
   return (
