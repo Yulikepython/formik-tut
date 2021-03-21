@@ -1,9 +1,9 @@
-import SignupForm from "./sixth0320"
+import FriendList from "./seventh0321"
 
 function App() {
   return (
     <div className="App">
-      <SignupForm tst="myLastName" />
+      <FriendList />
     </div>
   );
 }
