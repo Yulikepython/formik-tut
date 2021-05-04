@@ -1,9 +1,9 @@
-import FriendList from "./seventh0321_customize"
+import SignupForm from "./Rewrite0504"
 
 function App() {
   return (
     <div className="App">
-      <FriendList />
+      <SignupForm />
     </div>
   );
 }
